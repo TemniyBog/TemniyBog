@@ -4,7 +4,7 @@
 Python developer
 ----------------
 
-I have been studying Python, taking courses and looking for a job. I currently work in tech support.
+I have been studying Python, taking courses and looking for a job.
 
 *   🌍  I'm based in Almaty
 *   ✉️  You can contact me at neoficialniy2114@gmail.com
