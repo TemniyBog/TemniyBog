@@ -4,7 +4,7 @@
 Python developer
 ----------------
 
-I have been studying Python for 7 months, taking courses and looking for a job. I currently work in tech support. I am engaged in setting up Bitrix24, telephony and integrations.
+I have been studying Python, taking courses and looking for a job. I currently work in tech support.
 
 *   🌍  I'm based in Almaty
 *   ✉️  You can contact me at neoficialniy2114@gmail.com
