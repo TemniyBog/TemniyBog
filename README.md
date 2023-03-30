@@ -1,4 +1,4 @@
-### Hi 👋 My name is Artem Borisov
+### Hi 👋 My name is Artem
 ==============================
 
 Python developer
