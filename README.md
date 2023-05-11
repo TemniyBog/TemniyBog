@@ -4,12 +4,9 @@
 Python developer
 ----------------
 
-I have been studying Python, taking courses and looking for a job.
+I have been studying Python
 
 *   🌍  I'm based in Almaty
-*   ✉️  You can contact me at neoficialniy2114@gmail.com
-*   🧠  I'm learning Django
-*   🤝  I'm open to collaborating on Interesting projects
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
