@@ -4,7 +4,7 @@
 Python developer
 ----------------
 
-I have been studying Python
+I work as a full-stack developer, coding in PHP and JavaScript. I create applications using the Flutter framework. Previously, I used to code in Python.
 
 *   🌍  I'm based in Almaty
 <p align="left">
